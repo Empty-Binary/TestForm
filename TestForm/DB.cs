@@ -36,6 +36,8 @@ namespace TestForm
                 //        salesPrice_list.Add(salesPrice);
                 //    }
                 //}
+                Console.WriteLine(salesPrice_list);
+
                 return salesPrice_list;
             }
             catch (Exception e)
